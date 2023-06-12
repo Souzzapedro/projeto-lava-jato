@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Pedro/Documents/NetBeansProjects/LavaJato/src/view/FuncionarioView.java</file>
+            <file>file:/C:/Users/Pedro/Documents/NetBeansProjects/LavaJato/src/view/InicioView.java</file>
+            <file>file:/C:/Users/Pedro/Documents/NetBeansProjects/LavaJato/src/view/EstoqueView.java</file>
+            <file>file:/C:/Users/Pedro/Documents/NetBeansProjects/LavaJato/src/model/Servico.java</file>
+            <file>file:/C:/Users/Pedro/Documents/NetBeansProjects/LavaJato/src/dao/FuncionarioDAO.java</file>
+            <file>file:/C:/Users/Pedro/Documents/NetBeansProjects/LavaJato/src/dao/AgendamentoDAO.java</file>
+            <file>file:/C:/Users/Pedro/Documents/NetBeansProjects/LavaJato/src/model/Produto.java</file>
+            <file>file:/C:/Users/Pedro/Documents/NetBeansProjects/LavaJato/src/dao/ProdutoDAO.java</file>
+            <file>file:/C:/Users/Pedro/Documents/NetBeansProjects/LavaJato/src/view/CadastroDispesaView.java</file>
+            <file>file:/C:/Users/Pedro/Documents/NetBeansProjects/LavaJato/src/view/NovoAgendamentoServicosView.java</file>
+            <file>file:/C:/Users/Pedro/Documents/NetBeansProjects/LavaJato/src/model/Selecionados.java</file>
+            <file>file:/C:/Users/Pedro/Documents/NetBeansProjects/LavaJato/src/model/Dispesa.java</file>
+            <file>file:/C:/Users/Pedro/Documents/NetBeansProjects/LavaJato/src/view/NovoAgendamentoDadosView.java</file>
+            <file>file:/C:/Users/Pedro/Documents/NetBeansProjects/LavaJato/src/dao/ClienteDAO.java</file>
+            <file>file:/C:/Users/Pedro/Documents/NetBeansProjects/LavaJato/src/model/Agendamento.java</file>
+            <file>file:/C:/Users/Pedro/Documents/NetBeansProjects/LavaJato/src/view/ClientesView.java</file>
+            <file>file:/C:/Users/Pedro/Documents/NetBeansProjects/LavaJato/src/view/CadastroProdutoView.java</file>
+            <file>file:/C:/Users/Pedro/Documents/NetBeansProjects/LavaJato/src/view/CadastroFuncionarioView.java</file>
+            <file>file:/C:/Users/Pedro/Documents/NetBeansProjects/LavaJato/src/view/AgendaView.java</file>
+            <file>file:/C:/Users/Pedro/Documents/NetBeansProjects/LavaJato/src/view/DetalhesCliente.java</file>
+            <file>file:/C:/Users/Pedro/Documents/NetBeansProjects/LavaJato/src/view/NovoAgendamentoConfirmacaoView.java</file>
+            <file>file:/C:/Users/Pedro/Documents/NetBeansProjects/LavaJato/src/view/LoginView.java</file>
+            <file>file:/C:/Users/Pedro/Documents/NetBeansProjects/LavaJato/src/dao/DispesaDAO.java</file>
+            <file>file:/C:/Users/Pedro/Documents/NetBeansProjects/LavaJato/src/view/CadastroClienteView.java</file>
+        </group>
+    </open-files>
+</project-private>
